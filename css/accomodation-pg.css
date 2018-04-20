@@ -1,0 +1,33 @@
+P{
+  font-style:  italic;
+}
+#accomo{
+  color: blue;
+  font-size: 25px;
+  font-style: normal;
+  text-align: center;
+
+}
+body{
+    background-color: red;
+}
+img{
+    height: 500px;
+    width:900px
+}
+#para{
+  font-size: 40px;
+  font-style: normal;
+  font-family: serif;
+}
+#sleeping{
+    text-align: center;
+    color: blue;
+    font
+}
+#foods{
+  font-size: 12px;
+  font-style: italic;
+  color; black;
+  line-height: 12px;
+}
